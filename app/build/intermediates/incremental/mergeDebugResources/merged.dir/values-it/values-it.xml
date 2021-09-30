@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools" xmlns:ns2="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="array_page_sizes_a0_b10" translatable="false">
+        <item>A0 (841 x 1189 mm)</item>
+        <item>A1 (594 x 841 mm)</item>
+        <item>A2 (420 x 594 mm)</item>
+        <item>A3 (297 x 420 mm)</item>
+        <item>A4 (210 x 297 mm)</item>
+        <item>A5 (148 x 210 mm)</item>
+        <item>A6 (105 x 148 mm)</item>
+        <item>A7 (74 x 105 mm)</item>
+        <item>A8 (52 x 74 mm)</item>
+        <item>A9 (37 x 52 mm)</item>
+        <item>A10 (26 x 37 mm)</item>
+    </string-array>
+    <string-array name="array_page_sizes_b0_b10" translatable="false">
+        <item>B0 (1000 x 1414 mm)</item>
+        <item>B1 (707 x 1000 mm)</item>
+        <item>B2 (500 x 707 mm)</item>
+        <item>B3 (353 x 500 mm)</item>
+        <item>B4 (250 x 353 mm)</item>
+        <item>B5 (176 x 250 mm)</item>
+        <item>B6 (125 x 176 mm)</item>
+        <item>B7 (88 x 125 mm)</item>
+        <item>B8 (62 x 88 mm)</item>
+        <item>B9 (44 x 62 mm)</item>
+        <item>B10 (31 x 44 mm)</item>
+    </string-array>
+    <string-array name="faq_question_answers">
+        <item> Quali formati di file immagine sono supportati? ##### L\'app supporta jpeg, jpg, tiff, gif, psd, bmp, eps, png, ecc. </item>
+        <item> Posso creare un nuovo file di testo utilizzando l\'app? ##### Puoi creare un nuovo file di testo solo estraendo il testo da un PDF esistente. Per creare un file di testo, \ n1) Fai clic sull\'opzione <strong> Estrai testo </strong> nella home page. \ n2) Seleziona il PDF utilizzando il pulsante <strong> SELEZIONA FILE PDF </strong>. \ n3) Quindi, fai clic su <strong> ESTRATTA TESTO </strong>. \ n4) Una volta terminato, verrà creato un file di testo con i testi del file PDF. </item>
+        <item> Esiste un limite al numero di immagini che posso aggiungere contemporaneamente per creare un PDF? ##### No, non ci sono restrizioni. </item>
+        <item> C\'è un limite alla dimensione dell\'immagine che posso aggiungere? ##### No, non ci sono limiti. Tuttavia, consigliamo di limitare le dimensioni a <strong> meno di 10 MB </strong>. La conversione di più file di immagini di grandi dimensioni richiede fino a 10 secondi. </item>
+        <item> Posso inserire didascalie nell\'immagine dopo averle aggiunte? ##### No, le didascalie non possono essere inserite sulle immagini se non diversamente modificate sull\'immagine stessa. </item>
+        <item> Posso leggere i file PDF utilizzando l\'app? ##### No, al momento non puoi farlo. Questa app non funziona come visualizzatore di PDF. </item>
+        <item> Dove vengono salvati i file PDF che ho creato utilizzando l\'app? ##### I file dei file PDF creati con l\'app vengono salvati automaticamente nella cartella denominata PDFfiles sulla memoria del dispositivo. \ nPuoi anche modificare la posizione predefinita nella sezione <strong> Impostazioni </strong>. </item>
+        <item> Come modificare la posizione di archiviazione predefinita? ##### Per modificare la posizione di archiviazione predefinita, \ n1) Fare clic sull \'<strong> icona Hamburger </strong> (tre linee orizzontali) nell\'angolo in alto a sinistra. \ n2) Scorri verso il basso e fai clic su <strong> Impostazioni </strong>. \ n3) Nella pagina delle impostazioni, fai clic sul campo appena sotto il testo <strong> Cambia posizione di archiviazione </strong>. \ n4) Apri il percorso di salvataggio preferito e fai clic sull \'<strong> icona di selezione </strong> in alto. \ nUna volta modificati, i file creati utilizzando l\'app verranno archiviati nella nuova posizione. </item>
+        <item> Come posso condividere i file PDF che vengono modificati / creati utilizzando l\'app? ##### Puoi accedere e condividere i file PDF che hai modificato / creato direttamente dall\'app. Per condividere i file PDF, \ n1) Fare clic sull\'opzione <strong> Visualizza file </strong> nella home page. \ n2) Seleziona i file che desideri condividere utilizzando la casella di controllo. \ n3) Successivamente, fai clic su <strong> Altro </strong> (tre punti verticali) in alto a destra e fai clic su <strong> Condividi </strong>. \ n4) Seleziona il metodo desiderato per condividere i file. </item>
+        <item> Posso recuperare la password dimenticata di un file PDF utilizzando l\'app? ##### No, una password persa non può essere recuperata. </item>
+        <item> Posso cambiare la password di un file PDF? ##### Sì, ma solo se rimuovi la password esistente. Una volta rimossa la password, utilizza l\'opzione <strong> Rimuovi Passowrd </strong> nella home page per modificare la password. </item>
+        <item> Posso comprimere le immagini prima di creare un PDF? ##### Sì, puoi. Per comprimere le immagini, \ n1) Fare clic sull\'opzione <strong> Immagini in PDF </strong> nella home page. \ n2) Seleziona le immagini utilizzando il pulsante <strong> SELEZIONA IMMAGINI </strong>. \ n3) Quindi, selezional\opzione <strong> Compressione immagine </strong> per comprimere le immagini. </item>
+        <item> Qual è il formato delle immagini estratte da un PDF? ##### Le immagini estratte da un PDF saranno in formato <strong> .png </strong>. </item>
+        <item> Posso aggiungere file dal cloud / archiviazione online? ##### Per ora non è possibile. Ma è sulla roadmap di sviluppo e sarà presto disponibile. </item>
+        <item> Come controllare la cronologia dei file creati / modificati? ##### Per vedere tutti i file che hai creato / modificato nell\'app. \ nPer farlo, fai clic sull\'opzione <strong> Cronologia </strong> nella home page. </item>
+        <item> Come unire più file PDF? ##### Per unire più PDF, \ n1) Fare clic sull\'opzione <strong> Unisci PDF </strong> nella home page. \ n2) Seleziona i file PDF utilizzando il pulsante <strong> SELEZIONA FILE </strong>. \ n3) Una volta selezionato, fai clic sul pulsante <strong> UNISCI FILE </strong>. </item>
+        <item> Posso modificare le immagini durante la creazione di un PDF? ##### Sì, puoi. A tale scopo, \ n1) Fare clic sull\'opzione <strong> Immagini in PDF </strong> nella home page. \ n2) Seleziona le immagini utilizzando il pulsante <strong> SELEZIONA IMMAGINI </strong>. \ n3) Una volta selezionata, fai clic sull\'opzione <strong> Modifica immagini </strong> o <strong> Filtra immagini </strong> in base alle tue esigenze. \ n4) Completa la modifica o l\'applicazione del filtro. \ n5) Ora, seleziona le immagini modificate utilizzando il pulsante <strong> SELEZIONA IMMAGINI </strong> e fai clic su <strong> CREA PDF </strong> per creare il PDF. </item>
+        <item> Come aggiungere la filigrana al PDF? ##### Per aggiungere la filigrana scorri verso il basso fino a <strong> Migliora i PDF creati </strong> sulla home page o nel menu delle opzioni scorrendo da sinistra a destra e fai clic su <strong> Aggiungi filigrana </strong>. </item>
+        <item> Posso riordinare le pagine in un PDF? ##### Sì, puoi. Per riordinare la pagina, \ n1) Fai clic sull\'opzione <strong> Riordina pagine </strong> nella home page. \ n2) Seleziona il file PDF utilizzando il pulsante <strong> SELEZIONA UN FILE </strong>. \ n3) Fai clic su <strong> CREA PDF </strong>. \ n4) Usa le frecce su e giù per riordinare le pagine. \ n5) Una volta riordinato, fai clic su <strong> Freccia indietro </strong> in alto a sinistra per creare il nuovo file PDF aggiornato. </item>
+        <item> Come estrarre immagini da un PDF? ##### Per estrarre immagini, \ n1) Fare clic sull\'opzione Estrai immagini nella home page. \ n2) Selezionare il file PDF utilizzando il pulsante SELEZIONA UN FILE. \ n3) Una volta selezionato, fai clic sul pulsante CREA IMMAGINI. </item>
+        <item> Posso convertire i PDF nei formati PPT, PPTX, ODT, DOC, DOCX? ##### No, al momento i PDF possono essere convertiti solo in formato testo. </item>
+        <item> Dove posso scaricare l\'app PDF CONVERTER: Files to PDF? ##### L\'app è disponibile su Google PlayStore e F-Droid </item>
+        <item> Posso contribuire a questa app? ##### Sì, puoi. Trovaci su GitHub utilizzando il nome del progetto <strong> Swati4star / Images-to-PDF </strong>. \ nSentiti libero di condividere le tue idee (richieste di funzionalità), inviare un bug o richiedere un pull per qualsiasi cosa che ritieni debba essere aggiunta. \ nQuesto progetto ha più contributori che aggiungono un solo cambio di riga. Leggi la <strong> Guida del collaboratore </strong> del progetto per iniziare. </item>
+        <item> Ho alcune domande che non sono in questo documento delle FAQ. Come posso contattare lo sviluppatore? ##### Per ulteriori domande, invia un\'e-mail allo sviluppatore all\'indirizzo <strong>com@gmail.com</strong></item>
+    </string-array>
+    <string-array name="fontStyles" translatable="false">
+        <item>NORMAL</item>
+        <item>BOLD</item>
+        <item>ITALIC</item>
+        <item>UNDERLINE</item>
+        <item>STRIKETHRU</item>
+        <item>BOLDITALIC</item>
+    </string-array>
+    <array name="itemIds" translatable="false">
+        <item> apri </item>
+        <item> elimina </item>
+        <item> rinomina </item>
+        <item> stampa </item>
+        <item> posta elettronica </item>
+        <item> dettagli </item>
+    </array>
+    <array name="items">
+        <item> Apri file </item>
+        <item> Elimina file </item>
+        <item> Rinomina file </item>
+        <item> Stampa documento </item>
+        <item> Condividi file </item>
+        <item> Mostra dettagli </item>
+        <item> Aggiungi password </item>
+        <item> Rimuovi password </item>
+        <item> Ruota la pagina </item>
+        <item> Aggiungi filigrana </item>
+    </array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nuova notifica</item>
+    <item quantity="other">%d nuove notifiche</item>
+  </plurals>
+    <string name="File_hint_two" ns1:keep="@ string / File_hint_two"> Percorso file per PDF due </string>
+    <string name="Filter_image_preview"> Anteprima immagine filtro </string>
+    <string name="Filter_name"> Filtro </string>
+    <string name="a0_to_a10"> Da A0 a A10 </string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Portami a casa"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Torna indietro"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Scelta di un\'app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"ALT +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"CTRL +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"CANC"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"INVIO"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"FUNZIONE +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"META +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"MAIUSC +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"SPAZIO"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"SYM +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"MENU +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Condividi tramite <ns2:g id="APPLICATION_NAME">%s</ns2:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="add_images"> Aggiungi immagini </string>
+    <string name="add_margins"> unisciti al margine </string>
+    <string name="add_password"> Aggiungi password </string>
+    <string name="add_text"> Aggiungi testo </string>
+    <string name="add_to_favourite"> Aggiungi ai preferiti </string>
+    <string name="add_watermark"> Aggiungi filigrana </string>
+    <string name="album_name_all">Tutti i media</string>
+    <string name="app_description"> Un\'applicazione Android facile da usare per convertire i tuoi file in PDF. </string>
+    <string name="app_name">PDF Converter</string>
+    <string name="arrow_down"> Freccia giù </string>
+    <string name="arrow_up"> Freccia su </string>
+    <string name="b0_to_b10"> Da B0 a B10 </string>
+    <string name="border"> Aggiungi bordo immagine </string>
+    <string name="border_dialog_title"> Larghezza del bordo:% d </string>
+    <string name="border_width_prompt"> Inserisci le unità di larghezza del bordo </string>
+    <string name="bottom"> giù </string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+    <string name="btn_sav_text" translatable="false"> savText </string>
+    <string name="bundleKey"> URI immagine </string>
+    <string name="button_apply">Conferma(%1$d)</string>
+    <string name="button_apply_default">Conferma</string>
+    <string name="button_back">Indietro</string>
+    <string name="button_ok">OK</string>
+    <string name="button_preview">Anteprima</string>
+    <string name="cancel"> Annulla </string>
+    <string name="cannot_add_password"> Impossibile applicare la password al PDF. Controlla di nuovo il PDF. </string>
+    <string name="cannot_add_watermark"> Impossibile aggiungere la filigrana al PDF. Controlla di nuovo il PDF. </string>
+    <string name="change_master_pwd"> Cambia password principale </string>
+    <string name="character_counter_content_description">%1$d caratteri inserirti su %2$d</string>
+    <string name="character_counter_overflowed_content_description">Sono presenti %2$d caratteri in più rispetto al limite di %1$d</string>
+    <string name="choose_color_text"> Scegli un colore: </string>
+    <string name="choose_page_number_style"> Scegli la forma del numero di pagina </string>
+    <string name="choose_watermark_color"> Scegli il colore </string>
+    <string name="choose_watermark_font_family"> Scegli la famiglia di caratteri </string>
+    <string name="choose_watermark_style"> Scegli lo stile </string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns2:g id="APP_NAME">%1$s</ns2:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string name="compress_dialog_enter_prompt"> inserisci qui </string>
+    <string name="compress_dialog_percentage">% </string>
+    <string name="compress_image"> Compressione immagine:% s %% </string>
+    <string name="compress_info"> Congratulazioni! Il tuo PDF è compresso: \n Dimensione PDF originale: %1$s \n Dimensione PDF compresso: %2$s </string>
+    <string name="compress_pdf"> Comprimi PDF </string>
+    <string name="compress_pdf_prompt"> Immettere la % di compressione del PDF: </string>
+    <string name="compression_image_edit"> Modifica il valore di compressione dell\'mmagine </string>
+    <string name="confirm_exit_message"> Premi di nuovo indietro per uscire </string>
+    <string name="convert_to_pdf"> converti in PDF </string>
+    <string name="converting_file_message"> Conversione dei file in PDF. </string>
+    <string msgid="3209159573327985035" name="copy">"Copia"</string>
+    <string name="courier" translatable="false"> CORRIERE </string>
+    <string name="create_images"> Crea immagini </string>
+    <string name="create_new_pdfs"> Crea nuovo PDF </string>
+    <string name="create_pdf"> Crea PDF </string>
+    <string name="create_pdf_text">Crea PDF</string>
+    <string name="created"> Creato </string>
+    <string name="creating_pdf"> Creazione di PDF </string>
+    <string name="creating_txt"> Creazione di file di testo </string>
+    <string name="cropImage_activityTitle"> Ritaglia immagine </string>
+    <string name="crop_image_activity_no_permissions">Annullamento in corso, autorizzazione richieste non concesse</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">Ritaglia</string>
+    <string name="crop_image_menu_flip">Capovolgi</string>
+    <string name="crop_image_menu_flip_horizontally">Capovolgi orizzontalmente</string>
+    <string name="crop_image_menu_flip_vertically">Capovolgi verticalmente</string>
+    <string name="crop_image_menu_rotate_left">Ruota in senso antiorario</string>
+    <string name="crop_image_menu_rotate_right">Ruota</string>
+    <string name="current_master_pwd"> La password principale corrente è \"%1$s\" per ogni PDF crittografato. Puoi cambiarlo qui: </string>
+    <string name="decrypt_message"> Inserisci la password per continuare </string>
+    <string name="decrypt_protected_file"> Il pdf selezionato è protetto da password. Immettere la password per continuare … </string>
+    <string name="decrypted"> Decrypted </string>
+    <string name="decrypted_file"> _ unencrypted.pdf </string>
+    <string name="default_content_description">Nessuna descrizione</string>
+    <string name="default_font_family_text"> Famiglia di caratteri (predefinito:% s) </string>
+    <string name="default_page_size"> DEFAULT (% s) </string>
+    <string name="degree_180" translatable="false"> 180 ° </string>
+    <string name="degree_270" translatable="false"> 270 ° </string>
+    <string name="degree_90" translatable="false"> 90 ° </string>
+    <string name="delete"> Elimina </string>
+    <string name="delete_alert_selected"> Vuoi eliminare tutti i file selezionati? </string>
+    <string name="delete_alert_singular"> Vuoi eliminare il file selezionato? </string>
+    <string name="delete_history_message"> Sei sicuro di voler eliminare la cronologia? </string>
+    <string name="deleted"> Eliminato </string>
+    <string name="details"><b>Dettagli</b></string>
+    <string name="developer"> Sviluppatore: Swati Garg </string>
+    <string name="done"> Fine </string>
+    <string name="dont_show_again"> Non mostrare più </string>
+    <string name="edit_font_size"> Dimensione carattere (predefinito:% d) </string>
+    <string name="edit_images_text">Modifica immagine</string>
+    <string name="empty_image_description"> NoPdfs </string>
+    <string name="empty_text">Nessun media disponibile</string>
+    <string name="encrypted"> Crittografato </string>
+    <string name="encrypted_file"> _ encrypted.pdf </string>
+    <string name="encrypted_file_text"> file crittografato </string>
+    <string name="encrypted_pdf"> Il PDF è protetto da password </string>
+    <string name="enhance_created_pdfs"> Migliora i PDF creati </string>
+    <string name="enter_file_name"> Inserisci il nome del file </string>
+    <string name="enter_font_size"> Inserisci la dimensione del carattere </string>
+    <string name="enter_password"> Inserisci password </string>
+    <string name="enter_password_custom"> Inserisci password </string>
+    <string name="enter_rotation_angle"> Immettere l\'angolo di rotazione </string>
+    <string name="enter_watermark_angle"> Inserisci angolo </string>
+    <string name="enter_watermark_font_size"> Inserisci la dimensione del carattere </string>
+    <string name="enter_watermark_text"> Inserisci testo </string>
+    <string name="error_file_type">Tipo di file non supportato</string>
+    <string name="error_icon_content_description">Errore</string>
+    <string name="error_invalid_input"> Input non valido </string>
+    <string name="error_no_image_in_zip"> Il file ZIP non contiene immagini </string>
+    <string name="error_no_video_activity">Non è stata trovata alcuna app che supporti l\'anteprima video</string>
+    <string name="error_open_file"> Si è verificato un errore durante l\'apertura del file. Prova a riaprire </string>
+    <string name="error_over_count">Puoi selezionare fino a %1$d elementi</string>
+    <string name="error_over_count_default">Hai selezionato il numero massimo di elementi</string>
+    <string name="error_over_quality">Sopra qualità</string>
+    <string name="error_page_number"> Numero di pagina non valido </string>
+    <string name="error_page_range"> Input di intervallo non valido </string>
+    <string name="error_path_not_found"> ​​Spiacenti, non siamo in grado di accedere al file in questa posizione </string>
+    <string name="error_pdf_not_created"> Spiacenti, il PDF non è stato creato. Riprova </string>
+    <string name="error_type_conflict">Non è possibile selezionare contemporaneamente immagini e video</string>
+    <string name="error_under_quality">Sotto qualità</string>
+    <string name="error_uri_not_found"> ​​Spiacenti, non siamo in grado di accedere all\'immagine ritagliata. Riprova </string>
+    <string name="example"> Esempio: abc </string>
+    <string name="example_font"> Esempio: 10 </string>
+    <string name="example_pass_123"> passa @ 123 </string>
+    <string name="excel_selected"> File Excel selezionato </string>
+    <string name="excel_to_pdf"> Da Excel a PDF </string>
+    <string name="excel_tv_view_text"> File Excel selezionato: </string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avanzate"</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra il menu a discesa</string>
+    <string name="extension_not_supported"> Spiacenti! Questo tipo di file non è attualmente supportato. </string>
+    <string name="extract_images"> Estrai immagini </string>
+    <string name="extract_images_failed"> Impossibile trovare immagini nel PDF selezionato. </string>
+    <string name="extract_images_success"> Abbiamo trovato% 1 $ d immagini nel PDF selezionato. Sono stati salvati nella cartella File PDF nella directory principale. </string>
+    <string name="extract_text"> Estrai testo </string>
+    <string name="faqSearch"> Domande frequenti sulla ricerca </string>
+    <string name="favourites"> Preferiti </string>
+    <string name="favourites_text"> Seleziona + icona per aggiungere le tue funzionalità preferite! </string>
+    <string name="feedback_subject"> Suggerimenti per il convertitore di immagini in PDF </string>
+    <string name="feedback_text"> Scrivi gentilmente il tuo prezioso feedback, o semplicemente invia un ciao! :) </string>
+    <string name="file_access_error"> Impossibile accedere al PDF. I file possono essere crittografati o nella memoria esterna. </string>
+    <string name="file_date_text"> Data file </string>
+    <string name="file_info"> \ n Nome file:% 1 $ s \ n \ n Percorso:% 2 $ s \ n \ n Dimensione:% 3 $ s \ n \ n Data modifica% 4 $ s </string>
+    <string name="file_name_text">Nome del file</string>
+    <string name="file_order"> Nessuna modifica apportata al file </string>
+    <string name="file_size_text"> Dimensione file </string>
+    <string name="filter_autofix"> Correzione automatica </string>
+    <string name="filter_brightness"> Luminosità </string>
+    <string name="filter_brush"> Pennello </string>
+    <string name="filter_contrast"> Contrasto </string>
+    <string name="filter_cross"> Cross Process </string>
+    <string name="filter_documentary"> Documentario </string>
+    <string name="filter_duetone"> Due toni </string>
+    <string name="filter_file_name">% s_% s.jpg </string>
+    <string name="filter_filllight"> Luce di riempimento </string>
+    <string name="filter_filpver"> Capovolgi verticalmente </string>
+    <string name="filter_fliphor"> Capovolgi orizzontalmente </string>
+    <string name="filter_grain"> Grain </string>
+    <string name="filter_grayscale"> Scala di grigi </string>
+    <string name="filter_images_Text"> Filtra immagini \n </string>
+    <string name="filter_lomish"> Lomish </string>
+    <string name="filter_negative"> Negativo </string>
+    <string name="filter_none"> Nessuno </string>
+    <string name="filter_not_saved"> Impossibile salvare l\'immagine </string>
+    <string name="filter_poster"> Posterizza </string>
+    <string name="filter_rotate"> Ruota </string>
+    <string name="filter_saturate"> Saturate </string>
+    <string name="filter_saved"> Immagine salvata </string>
+    <string name="filter_sepia"> Seppia </string>
+    <string name="filter_sharpen"> Contrasta </string>
+    <string name="filter_temp"> Temperatura </string>
+    <string name="filter_tint"> Tinta </string>
+    <string name="filter_vig"> Vignetta </string>
+    <string name="font_color"> Colore carattere </string>
+    <string name="font_family_edit"> Cambia la famiglia di caratteri predefinita </string>
+    <string name="font_family_text"> "Famiglia di caratteri:" </string>
+    <string name="font_family_value_def"> Valore predefinito della famiglia di caratteri:% s </string>
+    <string name="font_size"> Dimensione carattere:% 1 $ s </string>
+    <string name="font_size_changed"> Dimensione carattere modificata </string>
+    <string name="font_size_edit"> Modifica la dimensione del carattere predefinita </string>
+    <string name="font_size_value_def"> Valore predefinito dimensione carattere:% d </string>
+    <string name="get_started"> Inizia ora </string>
+    <string name="github_repo"> Repository Github </string>
+    <string name="grayscale_images"> Crea PDF in scala di grigi </string>
+    <string name="helvetica" translatable="false"> HELVETICA </string>
+    <string name="history"> Cronologia </string>
+    <string name="i_have_attached_pdfs_to_this_message"> Ho allegato / i file a questo messaggio </string>
+    <string name="icon_content_description">Icona della finestra di dialogo</string>
+    <string name="image_compression_value_default"> Valore predefinito di compressione immagine:% d %% </string>
+    <string name="image_rearranging_options"> opzioni di riorganizzazione dell\'immagine </string>
+    <string name="image_scale_type"> Imposta il tipo di scala dell\'immagine </string>
+    <string name="images_rearranged"> le immagini sono state riorganizzate </string>
+    <string name="images_selected">% 1 $ d immagini selezionate. </string>
+    <string name="images_to_pdf"> Immagine in PDF </string>
+    <string name="install_file_manager"> Installa un file manager </string>
+    <string name="invalid_entry"> input non valido </string>
+    <string name="invert_pdf"> Inverti Pdf </string>
+    <string name="invert_pdf_info"> Tutti i colori nel pdf verranno invertiti </string>
+    <string name="invert_pdf_title"> Inverti PDF </string>
+    <string name="item_view_role_description">Scheda</string>
+    <string name="join_slack"> Unisciti a noi su Slack </string>
+    <string name="lbl_recently_used"> Funzioni utilizzate di recente </string>
+    <string name="left"> sinistra </string>
+    <string name="legal" translatable="false"> LEGALE </string>
+    <string name="license"> Licenza </string>
+    <string name="mail"> Invia un messaggio </string>
+    <string name="maintain_aspect_ratio"> Mantieni le proporzioni delle immagini </string>
+    <string name="master_password_changed"> La password sembra non essere corretta. Forse hai cambiato la password principale. </string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">%1$s in punto</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_am">am</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">pm</string>
+    <string name="material_timepicker_select_time">Seleziona l\'ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di immissione testo per inserire l\'ora.</string>
+    <string name="merge_file_select"> Seleziona un file </string>
+    <string name="merge_files"> UNISCI FILE </string>
+    <string name="merge_pdf"> Unisci PDF </string>
+    <string name="modify_existing_pdfs"> Modifica PDF esistenti </string>
+    <string name="more_options"> Altre opzioni </string>
+    <string name="more_options_text"> Altre opzioni di miglioramento </string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Non compresa nell\'intervallo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio - Data di fine</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di immissione Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla selezione di un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione Testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla selezione di un anno</string>
+    <string name="nextimage_contentdesc"> Immagine successiva </string>
+    <string name="no_excel_file"> Nessun file Excel selezionato </string>
+    <string name="no_history_message"> Nessuna cronologia da mostrare </string>
+    <string name="no_images_selected"> Nessuna immagine selezionata </string>
+    <string name="no_pdf"> Nessun PDF da mostrare </string>
+    <string name="no_permissions"> Fornisci le autorizzazioni di archiviazione per visualizzare i tuoi file. </string>
+    <string name="not_encrypted"> Il PDF non è crittografato </string>
+    <string msgid="478774118347071097" name="not_set">"Non impostato"</string>
+    <string msgid="4014704848104544569" name="offline_notification_text">"Tocca per aprire l\'annuncio"</string>
+    <string msgid="6989673690118446590" name="offline_notification_title">"Visualizza l\'annuncio salvato quando eri offline"</string>
+    <string msgid="6452552490969291315" name="offline_opt_in_confirm">"OK"</string>
+    <string msgid="2485091187023273083" name="offline_opt_in_confirmation">"Riceverai una notifica con il link quando sarai di nuovo online"</string>
+    <string msgid="1070677888032715836" name="offline_opt_in_decline">"No, grazie"</string>
+    <string msgid="5998527443747404848" name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell\'inserzionista."</string>
+    <string msgid="4928666061183236333" name="offline_opt_in_title">"Apri l\'annuncio quando sarai di nuovo online."</string>
+    <string name="ok"> OK </string>
+    <string name="open_file"> Apri file </string>
+    <string name="open_pdf_text">Apri PDF</string>
+    <string name="overwrite_message"> Esiste già un file con lo stesso nome. Vuoi sovrascrivere? </string>
+    <string name="page_color"> Colore della pagina </string>
+    <string name="page_size_value_def"> Valore predefinito dimensione pagina:% s </string>
+    <string name="page_x"> X / N </string>
+    <string name="page_x_of_n"> Pagina X / N </string>
+    <string name="password_protect_pdf_text">PDF protezione password</string>
+    <string name="password_remove"> Password rimossa </string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="pdf_added_to_list"> PDF è stato aggiunto all\'elenco. </string>
+    <string name="pdf_does_not_exist_message"> Il PDF non esiste. </string>
+    <string name="pdf_merged"> PDF uniti </string>
+    <string name="pdf_removed_from_list"> Il PDF è stato rimosso dall\'elenco. </string>
+    <string name="pdf_selected"> File PDF selezionato: </string>
+    <string name="pdf_suffix" translatable="false"> _ pdf </string>
+    <string name="pdf_to_images"> Da PDF a immagini </string>
+    <string name="photo_grid_capture">Camera</string>
+    <string name="pick_image_intent_chooser_title">Seleziona origine</string>
+    <string name="playstore"> Valutaci su Playstore </string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns2:g id="SUMMARY">%1$s</ns2:g>\"copiato negli appunti."</string>
+    <string name="preview_image_to_pdf">Anteprima PDF</string>
+    <string name="previous_image_content_desc"> Immagine precedente </string>
+    <string name="printed"> Stampato </string>
+    <string name="privacy_policy"> Norme sulla privacy </string>
+    <string name="prompt_give_permission"> Fornisci autorizzazioni </string>
+    <string name="prompt_input">Inserisci qui</string>
+    <string name="qr_barcode_pdf"> Codice bidimensionale e codice a barre </string>
+    <string name="qrbarcodes_to_pdf"> Crea PDF da QR &amp; Codice a barre </string>
+    <string name="quality_image"> percentuale di compressione dell\'immagine in ingresso: </string>
+    <string name="rate_dialog_text"> Se ti piace questa app, prenditi un momento per valutarla. Non ci vorrà più di un minuto. Grazie per il vostro sostegno! :) </string>
+    <string name="rate_negative"> No, grazie </string>
+    <string name="rate_positive"> Valuta ora </string>
+    <string name="rate_title"> Valutaci! </string>
+    <string name="rate_us_never"> Mai </string>
+    <string name="rate_us_text"> Ciao! Ho appena controllato questa app nel Playstore. Provalo: https://play.google.com/store/apps/details?id=androidmarket. Converte le immagini in PDF in modo così fluido. :) </string>
+    <string name="rearrange_images"> riorganizza le immagini </string>
+    <string name="rearrange_text"> riorganizza </string>
+    <string name="remove_dialog"> RIMUOVI </string>
+    <string name="remove_duplicate"> Rimuovi pagine duplicate. </string>
+    <string name="remove_duplicate_info"> Le pagine duplicate nel PDF verranno rimosse. </string>
+    <string name="remove_duplicate_pages"> Rimuovi pagine duplicate </string>
+    <string name="remove_image_message"> Sei sicuro di voler rimuovere questa immagine? </string>
+    <string name="remove_page_message"> Sei sicuro di voler rimuovere questa pagina? </string>
+    <string name="remove_pages"> Rimuovi pagine </string>
+    <string name="remove_pages_error"> Il valore di input non è valido </string>
+    <string name="remove_password"> Rimuovi password </string>
+    <string name="renamed"> Rinominato </string>
+    <string name="reorder_pages"> Riordina pagine </string>
+    <string name="reordering_pages_dialog"> Riordino delle tue pagine … </string>
+    <string name="reset"> Reimposta </string>
+    <string name="right"> right </string>
+    <string name="rotate"> Ruota </string>
+    <string name="rotate_pages"> Ruota pagine </string>
+    <string name="rotated"> Ruotato </string>
+    <string name="rotated_file_name" translatable="false">% s_rotated_% s% s </string>
+    <string msgid="368094699078615544" name="s1">"Salva immagine"</string>
+    <string msgid="4550830452390689489" name="s2">"Consentire ad AdMob di memorizzare l\'immagine nella galleria Immagini?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accetto"</string>
+    <string msgid="9167523597401839819" name="s4">"Rifiuto"</string>
+    <string msgid="1566682516266724847" name="s5">"Crea evento di calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"Consentire ad AdMob di creare un evento di calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annuncio di test"</string>
+    <string name="save"> Salva </string>
+    <string name="save_current"> Salva </string>
+    <string name="save_first"> Salva prima l\'immagine corrente </string>
+    <string name="scan_barcode"> Scansiona codice a barre </string>
+    <string name="scan_cancelled"> Scansione annullata dall\'utente </string>
+    <string name="scan_qrcode"> Scansiona codice QR </string>
+    <string name="search">Cerca</string>
+    <string name="search_hint">Nome file</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="select_all"> Seleziona tutto </string>
+    <string name="select_excel_file"> Seleziona file Excel </string>
+    <string name="select_file"> "Seleziona un file da caricare" </string>
+    <string name="select_files"> Seleziona file </string>
+    <string name="select_pdf_file"> Seleziona file PDF </string>
+    <string name="select_text_file"> Seleziona file di testo </string>
+    <string name="selected_image"> Immagine selezionata </string>
+    <string name="selected_images_text"> Le immagini selezionate verranno aggiunte alla fine del PDF selezionato. </string>
+    <string name="set_as_default"> impostato sul valore predefinito </string>
+    <string name="set_page_size_text"> Imposta dimensioni pagina </string>
+    <string name="set_password"> Imposta password </string>
+    <string name="share"> Condividi </string>
+    <string name="share_chooser"> Seleziona l\'app per inviare il messaggio… </string>
+    <string name="share_images"> Condividi immagini </string>
+    <string name="show_pg_num"> Seleziona il numero di pagina </string>
+    <string name="showing_image"> Visualizzazione di% 1 $ d di% 2 $ d immagini </string>
+    <string name="skip_text"> Salta </string>
+    <string name="snack_bar_empty_txt_in_pdf"> Il PDF scelto non ha testo da estrarre! </string>
+    <string name="snackbar_color_too_close"> Il colore del tuo carattere e il colore dello sfondo sono troppo simili </string>
+    <string name="snackbar_duplicate_removed"> Viene creato un nuovo PDF dopo la rimozione delle pagine duplicate. </string>
+    <string name="snackbar_file_deleted"> File eliminato. </string>
+    <string name="snackbar_file_not_deleted"> Il file non può essere eliminato. </string>
+    <string name="snackbar_file_not_renamed"> Il file non può essere rinominato. </string>
+    <string name="snackbar_file_renamed"> File rinominato. </string>
+    <string name="snackbar_files_deleted"> File eliminati </string>
+    <string name="snackbar_folder_not_created"> Errore durante la creazione della cartella dell\'applicazione. </string>
+    <string name="snackbar_imagecropped"> Immagini ritagliate </string>
+    <string name="snackbar_images_added"> Immagini aggiunte </string>
+    <string name="snackbar_invert_successfull"> Invertito </string>
+    <string name="snackbar_invert_unsuccessful"> Impossibile invertire il PDF </string>
+    <string name="snackbar_name_not_blank"> Il nome non può essere vuoto </string>
+    <string name="snackbar_no_duplicate_pdf"> Pagine duplicate non trovate. Nessun nuovo PDF creato. </string>
+    <string name="snackbar_no_images"> Nessuna immagine selezionata </string>
+    <string name="snackbar_no_pdf_app"> Nessuna app per leggere il file PDF </string>
+    <string name="snackbar_no_pdfs_selected"> Nessun PDF selezionato </string>
+    <string name="snackbar_no_share_app"> Nessuna applicazione da condividere. </string>
+    <string name="snackbar_password_cannot_be_blank"> La password non può essere vuota </string>
+    <string name="snackbar_pdfCreated"> PDF creato! </string>
+    <string name="snackbar_pdfselected"> File PDF selezionato! </string>
+    <string name="snackbar_txtExtracted"> Testo estratto! </string>
+    <string name="snackbar_txtselected"> File di testo selezionato! </string>
+    <string name="snackbar_undoAction"> ripristina </string>
+    <string name="snackbar_viewAction"> Visualizza </string>
+    <string name="snackbar_watermark_cannot_be_blank"> Il testo non può essere vuoto </string>
+    <string name="sort"> Ordina </string>
+    <string name="sort_by_title"> Ordina per </string>
+    <string name="split_info"> Il PDF verrà suddiviso in più PDF. Esempio di formato: 1 –5,6–7,8,9</string>
+    <string name="split_one_page_pdf_alert"> Il PDF selezionato non può essere diviso perché ha solo 1 pagina! </string>
+    <string name="split_pdf"> Dividi PDF </string>
+    <string name="split_range_alert"> L\'intervallo diviso inserito creerà nuovamente il PDF selezionato! </string>
+    <string name="split_success"> Il PDF selezionato è stato diviso correttamente. È stato suddiviso in %1$d PDF </string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_location_modified"> Posizione di archiviazione modificata </string>
+    <string name="stretch_image"> Allunga l\'immagine per adattarla alla pagina </string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns2:g id="CURRENT_ITEMS">%1$s</ns2:g>, <ns2:g id="ADDED_ITEMS">%2$s</ns2:g>"</string>
+    <string name="swipe_to_view_next"> Scorri verso sinistra per visualizzare l\'immagine successiva </string>
+    <string name="symbol" translatable="false"> SIMBOLO </string>
+    <string name="text_file_name"> "File di testo:" </string>
+    <string name="text_file_selected"> File di testo selezionato </string>
+    <string name="text_to_pdf"> Testo in PDF </string>
+    <string name="text_type" translatable="false"> text / plain </string>
+    <string name="theme_black"> Nero </string>
+    <string name="theme_dark"> Scuro </string>
+    <string name="theme_edit"> Cambia tema predefinito </string>
+    <string name="theme_system" ns1:ignore="MissingTranslation"> Sistema </string>
+    <string name="theme_value_def"> Valore predefinito del tema:% s </string>
+    <string name="theme_white"> Bianco </string>
+    <string name="times_roman" translatable="false"> TIMES_ROMAN </string>
+    <string name="title">PDF Operativo</string>
+    <string name="title_filter_history_dialog"> Filtra per tipo di operazione </string>
+    <string name="top"> Su </string>
+    <string name="undefined"> UNDEFINED </string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+    <string name="version"> Versione: </string>
+    <string name="viewFiles"> Visualizza i file </string>
+    <string name="view_contributors"> Visualizza collaboratori </string>
+    <string name="view_files_text"> Visualizza tutti i tuoi file convertiti qui! </string>
+    <string name="view_history_here_message"> Visualizza qui tutta la cronologia dei file convertiti! </string>
+    <string name="view_images"> Visualizza immagini </string>
+    <string name="view_in_gallery"> Visualizza immagini nella galleria </string>
+    <string name="view_pdf"> Visualizza PDF </string>
+    <string name="view_pdfs"> Visualizza PDF </string>
+    <string name="viewfiles_addpassword"> 1. Seleziona il PDF a cui desideri aggiungere la password. \ n2. Seleziona Aggiungi password. \ n3. Digita la nuova password. Seleziona OK. \ n4. Creare un nuovo PDF con password. </string>
+    <string name="viewfiles_addwatermark"> 1. Seleziona il PDF che desideri aggiungere watermark to. \ n2. Seleziona Aggiungi filigrana. \ n3. Compila le informazioni richieste. Seleziona OK. \ n4. Verrà creato un nuovo PDF con filigrana. </string>
+    <string name="viewfiles_removepassword"> 1. Seleziona il PDF da cui desideri rimuovere la password. \ n2. Seleziona Rimuovi password. \ n3. Digita la password PDF. Seleziona OK. \ n4. Verrà creato un nuovo PDF senza PDF. </string>
+    <string name="viewfiles_rotatepages"> 1. Seleziona il PDF che desideri ruotare. \n2. Seleziona Ruota pagine. \n3. Seleziona l1angolo di rotazione. Seleziona OK. \n4. Verrà creato un nuovo PDF ruotato. </string>
+    <string name="warning"> Avviso </string>
+    <string name="watermark_added"> Filigrana aggiunta </string>
+    <string name="watermark_angle"> Angolo </string>
+    <string name="watermark_font_size"> Dimensione carattere </string>
+    <string name="watermark_remove"> Filigrana rimossa </string>
+    <string name="watermarked"> Watermarked </string>
+    <string name="watermarked_file"> _ watermarked.pdf </string>
+    <string name="website"> Visita il nostro sito web </string>
+    <string name="whatsappToast"> Scusa! Impossibile aggiungere l&amp;immagine, seleziona un&amp;immagine dall&amp;opzione ** Seleziona immagine **. </string>
+    <string name="whatsnew_continue"> Continua </string>
+    <string name="whatsnew_title"> Novità </string>
+    <string name="x"> X </string>
+    <string name="yes"> Sì </string>
+    <string name="zapfdingbats" translatable="false"> ZAPFDINGBATS </string>
+    <string name="zip_to_pdf"> ZIP in PDF </string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
+    <string name="zxing_msg_default_status">Posiziona un codice a barre dentro il mirino rettangolare per la scansione.</string>
+</resources>
